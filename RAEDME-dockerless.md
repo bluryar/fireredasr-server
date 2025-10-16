@@ -1,6 +1,6 @@
 # 安装
 
-## DUC
+## DCU
 
 ```bash
 cd <fireredasr-server>
