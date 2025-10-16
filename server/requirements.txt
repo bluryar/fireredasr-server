@@ -10,11 +10,9 @@ sentencepiece
 soundfile==0.12.1
 speechbrain
 textgrid
-torch@file:///root/torch-2.7.1a0+das.opt1.dtk25041-cp310-cp310-manylinux_2_28_x86_64.whl
-torchaudio@file:///root/torchaudio-2.5.1a0+98777b5-cp310-cp310-manylinux_2_28_x86_64.whl
 numpy<2.0
-# torch>=2.1.0
-# torchaudio>=2.1.0
+torch>=2.1.0
+torchaudio>=2.1.0
 transformers>=4.46.3
 uvicorn==0.24.0
 ffmpeg-python==0.2.0
